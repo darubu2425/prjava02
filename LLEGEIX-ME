@@ -1,0 +1,32 @@
+1.a) git branch branca00
+
+1.b) git checkout branca00
+
+1.c) git branch
+     git status
+
+5) git checkout main
+   git status
+   git log
+
+L'últim commit que hem fet dins de branca00 no apareix a main.
+
+6) No es pot veure l'última línea afegida ja que en la branca de main mai s'ha afegit amb un commit. El canvi està només a branca00
+
+7) git checkout branca00
+   geany Prjava02.java
+
+Sí, podem veure l'última línea afegida, perquè tal i com he comentat en la pregunta anterior estem a la branca on s'ha fet la modificació y on s'ha efectuat el commit
+
+10.b) git merge branca00
+
+12.a) git push origin main
+
+12.c) Només s'ha actualitzat la branca main perquè es desde on hem fet el push.
+
+14.a) git push origin branca01
+
+14.c) Està a 1 commit ahead
+
+
+      
